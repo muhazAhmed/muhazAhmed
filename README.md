@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @muhazAhmed
 - 👀 I’m interested in webDev
-- 🌱 I’m currently learning backend Dev
+- 🌱 I’m currently learning Full Stack Dev
 - 💞️ I’m looking to collaborate on 'Any'
 - 📫 How to reach me muhazvla313@gmail.com
 
