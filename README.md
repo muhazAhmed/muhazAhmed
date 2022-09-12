@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @muhazAhmed
+- 👋 Hi, I’m Muhaz Ahmed
 - 👀 I’m interested in webDev
 - 🌱 I’m currently learning Full Stack Dev
 - 💞️ I’m looking to collaborate on 'Any'
